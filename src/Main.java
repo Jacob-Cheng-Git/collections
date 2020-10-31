@@ -108,7 +108,6 @@ public class Main {
         Collections.sort(heros,c);
         System.out.println("按照血量排序后的集合：");
         System.out.println(heros);
-        System.out.println("*********");
 
 
 
